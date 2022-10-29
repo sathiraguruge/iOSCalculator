@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iOSCalculator/static/css/main.834aaf63.css",
+    "main.js": "/iOSCalculator/static/js/main.2067c434.js",
+    "static/js/787.eceeaea8.chunk.js": "/iOSCalculator/static/js/787.eceeaea8.chunk.js",
+    "index.html": "/iOSCalculator/index.html",
+    "main.834aaf63.css.map": "/iOSCalculator/static/css/main.834aaf63.css.map",
+    "main.2067c434.js.map": "/iOSCalculator/static/js/main.2067c434.js.map",
+    "787.eceeaea8.chunk.js.map": "/iOSCalculator/static/js/787.eceeaea8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.834aaf63.css",
+    "static/js/main.2067c434.js"
+  ]
+}
